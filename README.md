@@ -1,0 +1,1 @@
+# configurar_sistema_operacional
